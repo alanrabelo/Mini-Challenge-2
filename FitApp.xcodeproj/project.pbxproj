@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		719EE5051D649E16007DD56E /* FoldingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719EE5041D649E16007DD56E /* FoldingCell.swift */; };
 		71BE84AB1D5FB3CA00094574 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BE84AA1D5FB3CA00094574 /* AppDelegate.swift */; };
 		71BE84B01D5FB3CA00094574 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71BE84AE1D5FB3CA00094574 /* Main.storyboard */; };
 		71BE84B31D5FB3CA00094574 /* FitApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 71BE84B11D5FB3CA00094574 /* FitApp.xcdatamodeld */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		719EE5041D649E16007DD56E /* FoldingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoldingCell.swift; sourceTree = "<group>"; };
 		71BE84A71D5FB3CA00094574 /* FitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71BE84AA1D5FB3CA00094574 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71BE84AF1D5FB3CA00094574 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				71BE84E41D5FB5D500094574 /* Cell */,
 				71BE84AA1D5FB3CA00094574 /* AppDelegate.swift */,
 				71BE84DD1D5FB46400094574 /* ViewFichas.swift */,
+				719EE5041D649E16007DD56E /* FoldingCell.swift */,
 				71BE84AE1D5FB3CA00094574 /* Main.storyboard */,
 				71BE84B41D5FB3CA00094574 /* Assets.xcassets */,
 				71BE84B61D5FB3CA00094574 /* LaunchScreen.storyboard */,
@@ -274,6 +277,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71BE84B31D5FB3CA00094574 /* FitApp.xcdatamodeld in Sources */,
+				719EE5051D649E16007DD56E /* FoldingCell.swift in Sources */,
 				71BE84DF1D5FB46400094574 /* CellFicha.swift in Sources */,
 				71BE84E01D5FB46400094574 /* ViewFichas.swift in Sources */,
 				71BE84AB1D5FB3CA00094574 /* AppDelegate.swift in Sources */,
